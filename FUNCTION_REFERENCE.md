@@ -1,8 +1,8 @@
 # DSA 床旁副屏 · 功能触发对照表
 
-> **版本**：当前 Demo 实现（`dsa.js` / `index.html`）  
+> **版本**：`dsa.js` / `index.html`
 > **定位**：副屏 = 状态总览 + 触屏辅助控制；高清成像输出至主监视器  
-> **打印建议**：浏览器打开本文件预览 → 打印；Mermaid 图需支持 Mermaid 的预览器（VS Code、GitHub、Typora 等）
+>Mermaid 图需支持 Mermaid 的预览器（VS Code、GitHub、Typora 等）
 
 ---
 
@@ -389,6 +389,4 @@ sequenceDiagram
 | **影像后处理** | — | 路图/布局/窗宽窗位/序列切换 |
 | **配置/日志** | 音量(↑↓) | 参数配置、剂量明细、操作日志 |
 
----
 
-*文档生成对应当前代码库 `frontend/dsa/` · 如有功能变更请同步更新本表*
