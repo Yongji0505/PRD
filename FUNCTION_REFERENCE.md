@@ -2,7 +2,7 @@
 
 > **版本**：`dsa.js` / `index.html`
 > **定位**：副屏 = 状态总览 + 触屏辅助控制；高清成像输出至主监视器  
->Mermaid 图需支持 Mermaid 的预览器（VS Code、GitHub、Typora 等）
+>Mermaid 
 
 ---
 
